@@ -1,0 +1,602 @@
+[
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "fecha_publicacion": "1967-05-30",
+    "isbn": "9788439720350"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "fecha_publicacion": "1949-06-08",
+    "isbn": "9780451524935"
+  },
+  {
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha_publicacion": "1943-04-06",
+    "isbn": "9780156012195"
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "fecha_publicacion": "1813-01-28",
+    "isbn": "9788497645100"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "fecha_publicacion": "1605-01-16",
+    "isbn": "9788467039401"
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoievski",
+    "fecha_publicacion": "1866-01-01",
+    "isbn": "9788491051515"
+  },
+  {
+    "titulo": "Moby Dick",
+    "autor": "Herman Melville",
+    "fecha_publicacion": "1851-10-18",
+    "isbn": "9788491050600"
+  },
+  {
+    "titulo": "Guerra y paz",
+    "autor": "León Tolstói",
+    "fecha_publicacion": "1869-01-01",
+    "isbn": "9788491051300"
+  },
+  {
+    "titulo": "Ulises",
+    "autor": "James Joyce",
+    "fecha_publicacion": "1922-02-02",
+    "isbn": "9788497641324"
+  },
+  {
+    "titulo": "Las uvas de la ira",
+    "autor": "John Steinbeck",
+    "fecha_publicacion": "1939-04-14",
+    "isbn": "9788497648354"
+  },
+  {
+    "titulo": "El gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "fecha_publicacion": "1925-04-10",
+    "isbn": "9788497642642"
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "fecha_publicacion": "1960-07-11",
+    "isbn": "9788497641041"
+  },
+  {
+    "titulo": "Un mundo feliz",
+    "autor": "Aldous Huxley",
+    "fecha_publicacion": "1932-01-01",
+    "isbn": "9788497648163"
+  },
+  {
+    "titulo": "En el camino",
+    "autor": "Jack Kerouac",
+    "fecha_publicacion": "1957-09-05",
+    "isbn": "9788497643502"
+  },
+  {
+    "titulo": "Lolita",
+    "autor": "Vladimir Nabokov",
+    "fecha_publicacion": "1955-09-15",
+    "isbn": "9788497641973"
+  },
+  {
+    "titulo": "El extranjero",
+    "autor": "Albert Camus",
+    "fecha_publicacion": "1942-01-01",
+    "isbn": "9788497644202"
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "fecha_publicacion": "1963-01-01",
+    "isbn": "9788439720367"
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "fecha_publicacion": "1955-01-01",
+    "isbn": "9788420473044"
+  },
+  {
+    "titulo": "Anna Karenina",
+    "autor": "León Tolstói",
+    "fecha_publicacion": "1877-01-01",
+    "isbn": "9788491051508"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "fecha_publicacion": "1891-01-01",
+    "isbn": "9788497648309"
+  },
+  {
+    "titulo": "Madame Bovary",
+    "autor": "Gustave Flaubert",
+    "fecha_publicacion": "1856-12-15",
+    "isbn": "9788497644103"
+  },
+  {
+    "titulo": "Viaje al centro de la Tierra",
+    "autor": "Julio Verne",
+    "fecha_publicacion": "1864-11-25",
+    "isbn": "9788497645001"
+  },
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "fecha_publicacion": "1818-01-01",
+    "isbn": "9788497647005"
+  },
+  {
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "fecha_publicacion": "1897-05-26",
+    "isbn": "9788497641201"
+  },
+  {
+    "titulo": "El guardián entre el centeno",
+    "autor": "J.D. Salinger",
+    "fecha_publicacion": "1951-07-16",
+    "isbn": "9788497641409"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "fecha_publicacion": "1953-10-19",
+    "isbn": "9788497648002"
+  },
+  {
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "fecha_publicacion": "1915-10-01",
+    "isbn": "9788497643106"
+  },
+  {
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "fecha_publicacion": "1980-01-01",
+    "isbn": "9788497642000"
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "fecha_publicacion": "2003-03-18",
+    "isbn": "9788497644004"
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "autor": "Suzanne Collins",
+    "fecha_publicacion": "2008-09-14",
+    "isbn": "9788497640303"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "fecha_publicacion": "1997-06-26",
+    "isbn": "9788497649504"
+  },
+  {
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "autor": "J.R.R. Tolkien",
+    "fecha_publicacion": "1954-07-29",
+    "isbn": "9788497641003"
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "fecha_publicacion": "1981-01-01",
+    "isbn": "9788439720374"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "fecha_publicacion": "2001-01-01",
+    "isbn": "9788497645056"
+  },
+  {
+    "titulo": "Como agua para chocolate",
+    "autor": "Laura Esquivel",
+    "fecha_publicacion": "1989-01-01",
+    "isbn": "9788497643007"
+  },
+  {
+    "titulo": "El amor en los tiempos del cólera",
+    "autor": "Gabriel García Márquez",
+    "fecha_publicacion": "1985-01-01",
+    "isbn": "9788439720381"
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "fecha_publicacion": "1982-01-01",
+    "isbn": "9788497640105"
+  },
+  {
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "fecha_publicacion": "1922-01-01",
+    "isbn": "9788497641102"
+  },
+  {
+    "titulo": "Rebelión en la granja",
+    "autor": "George Orwell",
+    "fecha_publicacion": "1945-08-17",
+    "isbn": "9788497645155"
+  },
+  {
+    "titulo": "Las aventuras de Tom Sawyer",
+    "autor": "Mark Twain",
+    "fecha_publicacion": "1876-12-01",
+    "isbn": "9788497647203"
+  },
+  {
+    "titulo": "Hamlet",
+    "autor": "William Shakespeare",
+    "fecha_publicacion": "1603-01-01",
+    "isbn": "9788497641348"
+  },
+  {
+    "titulo": "El conde de Montecristo",
+    "autor": "Alexandre Dumas",
+    "fecha_publicacion": "1844-01-01",
+    "isbn": "9788497642109"
+  },
+  {
+    "titulo": "Veinte mil leguas de viaje submarino",
+    "autor": "Julio Verne",
+    "fecha_publicacion": "1870-01-01",
+    "isbn": "9788497645018"
+  },
+  {
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "fecha_publicacion": "1862-01-01",
+    "isbn": "9788497641607"
+  },
+  {
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "fecha_publicacion": "1847-10-16",
+    "isbn": "9788497641508"
+  },
+  {
+    "titulo": "Mujercitas",
+    "autor": "Louisa May Alcott",
+    "fecha_publicacion": "1868-09-30",
+    "isbn": "9788497648200"
+  },
+  {
+    "titulo": "El perfume",
+    "autor": "Patrick Süskind",
+    "fecha_publicacion": "1985-01-01",
+    "isbn": "9788497642505"
+  },
+  {
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "fecha_publicacion": "1995-01-01",
+    "isbn": "9788497641904"
+  },
+  {
+    "titulo": "La insoportable levedad del ser",
+    "autor": "Milan Kundera",
+    "fecha_publicacion": "1984-01-01",
+    "isbn": "9788497641805"
+  },
+  {
+    "titulo": "El péndulo de Foucault",
+    "autor": "Umberto Eco",
+    "fecha_publicacion": "1988-01-01",
+    "isbn": "9788497642017"
+  },
+  {
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "fecha_publicacion": "1989-09-01",
+    "isbn": "9788401490219"
+  },
+  {
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "fecha_publicacion": "2007-03-27",
+    "isbn": "9788401337487"
+  },
+  {
+    "titulo": "La chica del tren",
+    "autor": "Paula Hawkins",
+    "fecha_publicacion": "2015-01-13",
+    "isbn": "9788408139578"
+  },
+  {
+    "titulo": "Tokio Blues (Norwegian Wood)",
+    "autor": "Haruki Murakami",
+    "fecha_publicacion": "1987-09-01",
+    "isbn": "9788483832152"
+  },
+  {
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "fecha_publicacion": "1988-01-01",
+    "isbn": "9788408003619"
+  },
+  {
+    "titulo": " Siddhartha",
+    "autor": "Hermann Hesse",
+    "fecha_publicacion": "1922-01-01",
+    "isbn": "9788420658422"
+  },
+  {
+    "titulo": "Diario de Ana Frank",
+    "autor": "Ana Frank",
+    "fecha_publicacion": "1947-06-25",
+    "isbn": "9788499081518"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn",
+    "autor": "Mark Twain",
+    "fecha_publicacion": "1884-12-10",
+    "isbn": "9788491050730"
+  },
+  {
+    "titulo": "Lo que el viento se llevó",
+    "autor": "Margaret Mitchell",
+    "fecha_publicacion": "1936-06-30",
+    "isbn": "9788497592878"
+  },
+  {
+    "titulo": "El sabueso de los Baskerville",
+    "autor": "Arthur Conan Doyle",
+    "fecha_publicacion": "1902-03-25",
+    "isbn": "9788491050518"
+  },
+  {
+    "titulo": "Alicia en el país de las maravillas",
+    "autor": "Lewis Carroll",
+    "fecha_publicacion": "1865-11-26",
+    "isbn": "9788491050013"
+  },
+  {
+    "titulo": "Historias de la cronopios y de famas",
+    "autor": "Julio Cortázar",
+    "fecha_publicacion": "1962-01-01",
+    "isbn": "9788439720398"
+  },
+  {
+    "titulo": "La carretera",
+    "autor": "Cormac McCarthy",
+    "fecha_publicacion": "2006-09-26",
+    "isbn": "9788439720404"
+  },
+  {
+    "titulo": "El Evangelio según Jesucristo",
+    "autor": "José Saramago",
+    "fecha_publicacion": "1991-01-01",
+    "isbn": "9788420473068"
+  },
+  {
+    "titulo": "La conjura de los necios",
+    "autor": "John Kennedy Toole",
+    "fecha_publicacion": "1980-01-01",
+    "isbn": "9788433966555"
+  },
+  {
+    "titulo": "La naranja mecánica",
+    "autor": "Anthony Burgess",
+    "fecha_publicacion": "1962-01-01",
+    "isbn": "9788497640006"
+  },
+  {
+    "titulo": "Poeta en Nueva York",
+    "autor": "Federico García Lorca",
+    "fecha_publicacion": "1940-01-01",
+    "isbn": "9788491050556"
+  },
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "fecha_publicacion": "1949-01-01",
+    "isbn": "9788491050501"
+  },
+  {
+    "titulo": "Cumbres Borrascosas",
+    "autor": "Emily Brontë",
+    "fecha_publicacion": "1847-12-01",
+    "isbn": "9788491050211"
+  },
+  {
+    "titulo": "El proceso",
+    "autor": "Franz Kafka",
+    "fecha_publicacion": "1925-04-26",
+    "isbn": "9788491050419"
+  },
+  {
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "fecha_publicacion": "0750-01-01",
+    "isbn": "9788491050099"
+  },
+  {
+    "titulo": "Memorias de Adriano",
+    "autor": "Marguerite Yourcenar",
+    "fecha_publicacion": "1951-01-01",
+    "isbn": "9788497643199"
+  },
+  {
+    "titulo": "Hojas de hierba",
+    "autor": "Walt Whitman",
+    "fecha_publicacion": "1855-07-04",
+    "isbn": "9788491051560"
+  },
+  {
+    "titulo": "Cándido",
+    "autor": "Voltaire",
+    "fecha_publicacion": "1759-01-01",
+    "isbn": "9788491050167"
+  },
+  {
+    "titulo": "La señora Dalloway",
+    "autor": "Virginia Woolf",
+    "fecha_publicacion": "1925-05-14",
+    "isbn": "9788491050709"
+  },
+  {
+    "titulo": "El lobo estepario",
+    "autor": "Hermann Hesse",
+    "fecha_publicacion": "1927-01-01",
+    "isbn": "9788491050808"
+  },
+  {
+    "titulo": "El mundo de Sofía",
+    "autor": "Jostein Gaarder",
+    "fecha_publicacion": "1991-01-01",
+    "isbn": "9788420473075"
+  },
+  {
+    "titulo": "El club de la lucha",
+    "autor": "Chuck Palahniuk",
+    "fecha_publicacion": "1996-01-01",
+    "isbn": "9788497644240"
+  },
+  {
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "fecha_publicacion": "1995-01-01",
+    "isbn": "9788420473082"
+  },
+  {
+    "titulo": "El juego de Ender",
+    "autor": "Orson Scott Card",
+    "fecha_publicacion": "1985-01-15",
+    "isbn": "9788497642659"
+  },
+  {
+    "titulo": "Dune",
+    "autor": "Frank Herbert",
+    "fecha_publicacion": "1965-08-01",
+    "isbn": "9788497642451"
+  },
+  {
+    "titulo": "Neuromante",
+    "autor": "William Gibson",
+    "fecha_publicacion": "1984-07-01",
+    "isbn": "9788497642703"
+  },
+  {
+    "titulo": "Crónicas marcianas",
+    "autor": "Ray Bradbury",
+    "fecha_publicacion": "1950-01-01",
+    "isbn": "9788497642758"
+  },
+  {
+    "titulo": "Un yanqui en la corte del Rey Arturo",
+    "autor": "Mark Twain",
+    "fecha_publicacion": "1889-12-10",
+    "isbn": "9788491050723"
+  },
+  {
+    "titulo": "La llamada de Cthulhu",
+    "autor": "H.P. Lovecraft",
+    "fecha_publicacion": "1928-02-01",
+    "isbn": "9788491050525"
+  },
+  {
+    "titulo": "Las flores del mal",
+    "autor": "Charles Baudelaire",
+    "fecha_publicacion": "1857-06-25",
+    "isbn": "9788491050402"
+  },
+  {
+    "titulo": "Así habló Zaratustra",
+    "autor": "Friedrich Nietzsche",
+    "fecha_publicacion": "1883-01-01",
+    "isbn": "9788491050051"
+  },
+  {
+    "titulo": "La ética",
+    "autor": "Baruch Spinoza",
+    "fecha_publicacion": "1677-01-01",
+    "isbn": "9788491050358"
+  },
+  {
+    "titulo": "Diálogos",
+    "autor": "Platón",
+    "fecha_publicacion": "0380-01-01",
+    "isbn": "9788491050075"
+  },
+  {
+    "titulo": "Meditaciones",
+    "autor": "Marco Aurelio",
+    "fecha_publicacion": "0170-01-01",
+    "isbn": "9788491050884"
+  },
+  {
+    "titulo": "El arte de la guerra",
+    "autor": "Sun Tzu",
+    "fecha_publicacion": "0500-01-01",
+    "isbn": "9788491050020"
+  },
+  {
+    "titulo": "Los demonios",
+    "autor": "Fiódor Dostoievski",
+    "fecha_publicacion": "1872-01-01",
+    "isbn": "9788491051522"
+  },
+  {
+    "titulo": "El lobo de mar",
+    "autor": "Jack London",
+    "fecha_publicacion": "1904-01-01",
+    "isbn": "9788491050563"
+  },
+  {
+    "titulo": "Dr. Jekyll y Mr. Hyde",
+    "autor": "Robert Louis Stevenson",
+    "fecha_publicacion": "1886-01-05",
+    "isbn": "9788491050228"
+  },
+  {
+    "titulo": "La edad de la inocencia",
+    "autor": "Edith Wharton",
+    "fecha_publicacion": "1920-01-01",
+    "isbn": "9788491051553"
+  },
+  {
+    "titulo": "Trópico de Cáncer",
+    "autor": "Henry Miller",
+    "fecha_publicacion": "1934-09-01",
+    "isbn": "9788497644264"
+  },
+  {
+    "titulo": "El Gatopardo",
+    "autor": "Giuseppe Tomasi di Lampedusa",
+    "fecha_publicacion": "1958-01-01",
+    "isbn": "9788497642673"
+  },
+  {
+    "titulo": "La Regenta",
+    "autor": "Leopoldo Alas Clarín",
+    "fecha_publicacion": "1884-01-01",
+    "isbn": "9788491050663"
+  },
+  {
+    "titulo": "El otoño del patriarca",
+    "autor": "Gabriel García Márquez",
+    "fecha_publicacion": "1975-01-01",
+    "isbn": "9788439720411"
+  },
+  {
+    "titulo": "La isla del tesoro",
+    "autor": "Robert Louis Stevenson",
+    "fecha_publicacion": "1883-05-28",
+    "isbn": "9788491050303"
+  }
+]
