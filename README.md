@@ -96,4 +96,6 @@ Estas rutas funcionan correctamente con la aplicación Flutter **`app_libros`**,
 
 ## 🔹 Capturas de pantalla
 
-
+![Lista de libros](1_api.png)
+![Detalle de libro](2_api.png)
+![Crear / editar libro](3_api.png)
