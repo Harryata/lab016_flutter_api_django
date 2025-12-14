@@ -96,13 +96,4 @@ Estas rutas funcionan correctamente con la aplicación Flutter **`app_libros`**,
 
 ## 🔹 Capturas de pantalla
 
-Puedes agregar imágenes de la API funcionando (por ejemplo, con Postman):
 
-```
-![Lista de libros](ruta/a/imagen_listaruta/a/imagen_detalle.pngta real de tus imágenes en el repositorio (por ejemplo: `images/lista.png`).
-
----
-
-### 🚀 Autor
-**Harryata** — Proyecto académico con integración Django + Flutter.
-```
